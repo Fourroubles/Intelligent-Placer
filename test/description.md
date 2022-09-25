@@ -140,3 +140,15 @@
 ![test 23](https://github.com/Fourroubles/Intelligent-Placer/blob/develop/test/images/23.jpg)
 
 Ответ: true
+
+### Двадцать четвертый тест
+Размер листа меньше, чем в предыдущих тестах.    
+![test 24](https://github.com/Fourroubles/Intelligent-Placer/blob/develop/test/images/24.jpg)
+
+Ответ: true
+
+### Двадцать пятый тест
+Лист имеет неквадратную/непрямоугольную форму. Все листы должны иметь квадратную или прямоугольную форму.    
+![test 25](https://github.com/Fourroubles/Intelligent-Placer/blob/develop/test/images/25.jpg)
+
+Ответ: false
